@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "fullname": "shamil",
+      "email": "www.muhammedshamil85@gmail.com",
+      "password": "shamil123",
+      "createdAt": "2026-06-22T06:58:49.578Z",
+      "id": "X2blJnqoUPI"
+    },
+    {
+      "fullname": "shamil m",
+      "email": "www.muhammeddhshamil85@gmail.com",
+      "password": "shamil12345",
+      "createdAt": "2026-06-22T06:59:18.175Z",
+      "id": "KtuEH5uLZAE"
+    },
+    {
+      "fullname": "shamil",
+      "email": "www.shamil85@gmail.com",
+      "password": "muhammedshamil",
+      "createdAt": "2026-06-22T07:41:05.675Z",
+      "id": "V6RVH4uk1DM"
+    },
+    {
+      "fullname": "ibthisam",
+      "email": "shamil8458@gmail.com",
+      "password": "ibshamil",
+      "createdAt": "2026-06-22T08:51:55.288Z",
+      "id": "VjFjdlEysKY"
+    },
+    {
+      "fullname": "abu",
+      "email": "abu123@gmail.com",
+      "password": "abu123",
+      "createdAt": "2026-06-23T04:29:52.315Z",
+      "id": "ENUt9-3Tz9k"
+    },
+    {
+      "fullname": "abu",
+      "email": "abu1223@gmail.com",
+      "password": "abu123",
+      "createdAt": "2026-06-23T04:30:07.402Z",
+      "id": "SXNpcamO3ng"
+    },
+    {
+      "fullname": "abu",
+      "email": "abu12345@gmail.com",
+      "password": "abu1234",
+      "createdAt": "2026-06-23T04:31:32.758Z",
+      "id": "ZmfOaH1RMgY"
+    },
+    {
+      "fullname": "muhammed shamil",
+      "email": "shamil123@gmail.com",
+      "password": "shamil12345",
+      "createdAt": "2026-06-23T05:24:26.034Z",
+      "id": "HWPx7ax3Ko8"
+    },
+    {
+      "fullname": "shamil",
+      "email": "www.muhammedshamil855@gmail.com",
+      "password": "shamil123",
+      "createdAt": "2026-06-23T06:10:12.978Z",
+      "id": "_h5hRMVtoDs"
+    },
+    {
+      "fullname": "abu",
+      "email": "abu3@gmail.com",
+      "password": "abu123",
+      "createdAt": "2026-06-23T06:11:41.960Z",
+      "id": "O_t8_fNbEKE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
