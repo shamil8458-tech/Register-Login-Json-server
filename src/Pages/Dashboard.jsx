@@ -37,7 +37,7 @@ function Dashboard() {
     <div className='min-h-screen flex items-center justify-center bg-gray-300'>
       <div className='flex flex-col gap-4'>
          <h1 className='font-bold text-amber-800 text-3xl'>Welcome {user.fullname}</h1>
-      <button onClick={logout} className='border-1 h-8 w-30 rounded-[10px] font-bold'>Logout</button>
+      <button onClick={logout} className='bg-gray-500 h-8 w-30 rounded-[10px] font-bold'>Logout</button>
 
       </div>
      

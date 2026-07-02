@@ -48,19 +48,19 @@ function Login() {
 
   }
   return (
-    <div className='min-h-screen flex items-center justify-center bg-gradient-to-r bg-gray-300  '>
+    <div className='min-h-screen flex items-center justify-center  bg-gray-300  '>
 
         <div className=''>
 
             
-        <form onSubmit={handleLogin} className='flex flex-col bg-white  gap-10 items-center border-1 w-100 h-70 p-11 rounded-2xl '>
-            <input name='email' placeholder='Email'  onChange={handleChange} className='w-90 border-2 h-10 rounded-[10px]'/>
-            <input name='password' placeholder='PassWord' onChange={handleChange}className='w-90 border-2 h-10 rounded-[10px]' />
-            <button type='submit' className='border-1 h-8 w-30 rounded-[10px] font-bold'>Login</button>
+        <form onSubmit={handleLogin} className='flex flex-col bg-white  gap-10 items-center w-100 h-70 p-11 rounded-2xl shadow-md'>
+            <input name='email' placeholder='Email'  onChange={handleChange} className='w-90 bg-gray-300  h-10 rounded-[10px] p-4 shadow-md'/>
+            <input name='password' placeholder='PassWord' onChange={handleChange}className='w-90 bg-gray-300  h-10 rounded-[10px] p-4 shadow-md' />
+            <button type='submit' className='bg-gray-500 shadow-md h-8 w-30 rounded-[10px] font-bold'>Login</button>
         </form>
 
-        <p>
-            Regester Now : <Link to="/register" className='text-amber-800'>REGISTER</Link>
+        <p className='text-gray-600/70 mt-1 ml-4'>
+            Regester Now : <Link to="/register" className='text-black font-medium '>REGISTER</Link>
         </p>
 
         </div>

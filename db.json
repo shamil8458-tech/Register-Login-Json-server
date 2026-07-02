@@ -69,6 +69,27 @@
       "password": "abu123",
       "createdAt": "2026-06-23T06:11:41.960Z",
       "id": "O_t8_fNbEKE"
+    },
+    {
+      "fullname": "mossasarji",
+      "email": "mossa123@gamil.com",
+      "password": "mossa12345",
+      "createdAt": "2026-06-24T07:26:39.184Z",
+      "id": "Z6QEzJqAzxk"
+    },
+    {
+      "fullname": "laptop",
+      "email": "laptop@gmail.com",
+      "password": "laptop1234",
+      "createdAt": "2026-07-02T06:23:18.079Z",
+      "id": "cOjGR-RRjYw"
+    },
+    {
+      "fullname": "water",
+      "email": "water@gamil.com",
+      "password": "water123",
+      "createdAt": "2026-07-02T06:47:11.462Z",
+      "id": "5eQvPk18Emo"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
